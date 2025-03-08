@@ -12,13 +12,13 @@ const Navbar = () => {
       <a class="navbar-brand" href="#">Tasty Bytes</a>
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">Home</a>
+          <a class="nav-link active" aria-current="page" href="home">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">About</a>
+          <a class="nav-link active" aria-current="page" href="about">About</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">Contact US</a>
+          <a class="nav-link active" aria-current="page" href="contact">Contact US</a>
         </li>
     
       </ul>
